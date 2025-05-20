@@ -8,11 +8,8 @@ The program, written in C++ using OpenGL, graphs a number of parametric curves b
 **What have I done and what have I learned?**
 
 
-Using GLUT for making a simple OpenGL window
-
-Plotting curves from parametric equations
-
-Polar to Cartesian coordinate conversion
-
-Managing screen coordinates and window resizes in OpenGL
+- Using GLUT for making a simple OpenGL window
+- Plotting curves from parametric equations
+- Polar to Cartesian coordinate conversion
+- Managing screen coordinates and window resizes in OpenGL
 
